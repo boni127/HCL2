@@ -1,0 +1,18 @@
+{
+    "id": "{404710B4-A57C-C5D6-CF13-F024C6FB1DD8}",
+    "name": "HCL2Gateway",
+    "type": 1,
+    "vendor": "Fibaro",
+    "aliases": [
+        "Fibaro Homecenter Lite Gateway2"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [
+        "{0C08A0EE-B493-0F95-3B22-FBC8731F3FE3}"
+    ],
+    "implemented": [
+        "{E26417E8-749E-87DE-6062-16FEFB7E6447}"
+    ],
+    "prefix": "HCLG",
+    "url": ""
+}

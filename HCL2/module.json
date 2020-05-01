@@ -1,0 +1,18 @@
+{
+    "id": "{71CA535C-08CC-4B64-A3C2-7A6239853176}",
+    "name": "HCL2",
+    "type": 3,
+    "vendor": "Fibaro",
+    "aliases": [
+        "Fibaro Homecenter Lite2"
+    ],
+    "parentRequirements": [
+        "{E26417E8-749E-87DE-6062-16FEFB7E6447}"
+    ],
+    "childRequirements": [],
+    "implemented": [
+        "{0C08A0EE-B493-0F95-3B22-FBC8731F3FE3}"
+    ],
+    "prefix": "HCL",
+    "url": ""
+}
